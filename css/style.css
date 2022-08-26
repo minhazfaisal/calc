@@ -1,0 +1,28 @@
+.box{
+	margin: 0 auto;
+	
+	width: calc(100% - 100px); /* calculate */
+	height: calc(100vh - 50px); /* calculate */
+	
+    font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	font-weight: 500;
+	color: white;
+
+	display: flex;
+    text-align: center;
+    align-items: center;
+}
+/*one*/
+.sec1{
+	background: linear-gradient(#06beb6, #48b1bf);
+}
+/*two*/
+.sec2{
+	background: linear-gradient(#eb3349, #f45c43);
+}
+/*three*/
+.sec3{
+	background: linear-gradient(#614385, #516395);
+}
+
